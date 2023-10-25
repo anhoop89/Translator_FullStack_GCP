@@ -1,0 +1,14 @@
+# ignore files and directories in the root directory
+.git
+.vscode
+*.md
+*.yml
+.cache
+__pycache__
+
+# ignore node_modules directory
+node_modules/
+
+# ignore .env files
+.env*
+

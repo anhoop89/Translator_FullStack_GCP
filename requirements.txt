@@ -1,0 +1,8 @@
+# Web framework
+flask
+
+# GCP Cloud Datastore library
+google-cloud-datastore
+
+# Python WSGI HTTP server (connects web servers such as nginx to app)
+gunicorn
