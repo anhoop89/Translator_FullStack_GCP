@@ -15,6 +15,7 @@ Google Datastore: A NoSQL database service provided by Google Cloud, often used 
 
 Google Cloud Deployment: Refers to the process of deploying your application on Google Cloud, ensuring scalability, reliability, and accessibility.
 ```
+Deployed URL: https://final-zd23viltva-wl.a.run.app/ 
 ---
 ![image](https://github.com/anhoop89/Translator_FullStack_GCP/assets/102849461/13bf598d-3ec9-4a0f-b844-e17d1e8e6993)
 # **** How to set up the project from a scratch ****
