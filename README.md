@@ -2,8 +2,21 @@
  Translation Tool from English To Spanish and Spanish to English
  - Anh Ho 
  ---
-**The main goal of this project is to build the entire application on Google Cloud Computing using Python with Flask, API, Docker, Google Datastore, and Google Cloud Deployment.**
+**The main goal of this project is to build the entire application on Google Cloud Platform **
+All the tools I have used for this project including:
+```
+Python with Flask: Appropriate for web application development.
+
+Merriam-Webster API: Suitable for integrating a translation tool and dictionary functionality into my application.
+
+Docker containers: A standard choice for packaging and deploying applications, including images and dependencies.
+
+Google Datastore: A NoSQL database service provided by Google Cloud, often used for storing and retrieving structured data in applications.
+
+Google Cloud Deployment: Refers to the process of deploying your application on Google Cloud, ensuring scalability, reliability, and accessibility.
+```
 ---
+![image](https://github.com/anhoop89/Translator_FullStack_GCP/assets/102849461/13bf598d-3ec9-4a0f-b844-e17d1e8e6993)
 # **** How to set up the project from a scratch ****
 ## Create the service account: 
 > gcloud iam service-accounts create finalTranslation
@@ -46,4 +59,5 @@ gcloud builds submit --timeout=900 --tag gcr.io/${GOOGLE_CLOUD_PROJECT}/translat
 
 > To destroy or delete a deployment in Google Cloud Run, you can use the 
 > gcloud run services delete final
+
 
