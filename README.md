@@ -1,6 +1,8 @@
 # Translator_FullStack_GCP
  Translation Tool from English To Spanish and Spanish to English
+ ---
 **The main goal of this project is to build the entire application on Google Cloud Computing using Python with Flask, API, Docker, Google Datastore, and Google Cloud Deployment.**
+---
 # **** How to set up the project from a scratch ****
 ## Create the service account: 
 > gcloud iam service-accounts create finalTranslation
