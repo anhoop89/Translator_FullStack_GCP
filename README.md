@@ -2,6 +2,10 @@
  Translation Tool from English To Spanish and Spanish to English
  - Anh Ho 
  ---
+
+***Translator_FullStack_GCP*** is a robust translation tool equipped with a sleek web interface, built using the Flask web framework. Seamlessly translating between English and Spanish, as well as Spanish to English, this application leverages the power of Google Cloud Datastore library for efficient data storage and retrieval. Powered by Gunicorn, a Python WSGI HTTP server, it ensures smooth and reliable connectivity between web servers like nginx and the application itself. Enhance your multilingual communication effortlessly with Translator_FullStack_GCP.
+
+ 
 **The main goal of this project is to build the entire application on Google Cloud Platform **
 All the tools I have used for this project including:
 ```
